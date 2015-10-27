@@ -1,2 +1,6 @@
-# APCI-1301154328-IF-39-06
-#APCI-1301154328-IF 39-06
+ Program Hello;
+        Uses Crt;
+        Begin
+            ClrScr;
+            Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar
+        End
